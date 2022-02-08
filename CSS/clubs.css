@@ -1,0 +1,147 @@
+/* backgound for club introduction */
+
+.xplorica{
+    background-color:#F4F5F7;
+    line-height: 1.5rem;
+  }
+
+.spotivo{
+    background-color:#F4F5F7;
+    line-height: 1.5rem;
+  }
+.culrav{
+    background-color:#F4F5F7;
+    line-height: 1.5rem;
+  }
+
+.Estrella{
+    background-color:#F4F5F7;
+    line-height: 1.5rem;
+  }
+
+.heading{
+    text-align:center;
+    padding-top: 170px;
+  }
+
+  /* social media handles */
+
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 10px 2px;
+    border-radius: 50%;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 75px;
+  }
+
+.fa-whatsapp {
+    background: #55ee58;;
+    color: white;
+    width: 75px;
+  }
+
+
+
+.fa-instagram {
+    background: #3B5998;
+    color: white;
+    width: 75px;
+  }
+
+
+.fa-snapchat-ghost {
+    background: yellow;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    width: 75px;
+  }
+
+
+
+.center {
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 100px;
+
+  }
+
+  /* socail media headings */
+
+.social_media{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+.into{
+    margin-bottom: 100px;
+
+  }
+
+#carousel
+  {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    height: 400px;
+    width: 800px;
+  }
+
+
+#carousel_a
+  {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    height: 400px;
+    width: 800px;
+  }
+
+
+
+
+  /* 1st sectrion of clubs group together */
+
+.club{
+    font-size: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    line-height: 1.5rem;
+}
+
+  /* 1st sectrion of clubs group together */
+.club1{
+    padding-top: 50px;
+    position: relative;
+    top: 0px;
+    display:inline-block;
+    margin-left: 100px;
+    margin-right: auto;
+    line-height: 1.5rem;
+}
+
+  /* more about section */
+
+.more_about{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+}

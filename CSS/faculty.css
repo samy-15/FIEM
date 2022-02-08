@@ -1,0 +1,55 @@
+
+.faculty-body{
+
+}
+#tapas,#nata,#mc,#ab,#dm,#mks,#pm,#pd,#rky,#tc,#rc,#bs,#km,#ps,#rkp,#sd,#sp{
+
+    padding: 5% 20% 5% 20%;
+}
+.teacher-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+
+
+}
+.teacher-name{
+    position: relative;
+    left: 50px;
+    top:10px
+}
+.teacher-bio{
+    position: relative;
+    left: 50px;
+    top:30px;
+    line-height: 2;
+    padding-right: 4%;
+}
+.btn-secondary{
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.input{
+    padding-right: 10%;
+}
+.contacts{
+    padding: 3%;
+}
+hr{
+    position: relative;
+    left:35%;
+    border-style: none;
+    border-top-style: dashed;
+    border-color: grey;
+    border-width: 0.5px;
+    width: 30%;
+
+}
+table{
+    width: 100px;
+}
+body{
+    position: relative;
+}

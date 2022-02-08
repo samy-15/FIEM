@@ -1,0 +1,43 @@
+
+#buttons{
+  padding: 5% 15%;
+  text-align: center;
+}
+.course-logo{
+  border-radius: 100%;
+  width: 50%;
+  margin-bottom: 5%;
+}
+.left-align{
+  text-align: left;
+}
+.course{
+  line-height: 1.5rem;
+  padding: 5% 15%;
+}
+.admission-head{
+  padding: 2%;
+  text-decoration-color: "grey";
+}
+.course-hr{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.after-sec{
+  padding-left: 15%;
+}
+.Back-to-top{
+  position: fixed;
+  margin-left: 600px;
+  margin-top: 170px;
+}
+.collapse{
+  line-height: 1.5rem;
+}
+@media(max-width:600px){
+  .row{
+    text-align: center;
+  }
+}

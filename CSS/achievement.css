@@ -1,0 +1,105 @@
+.head{
+    position: relative;
+
+}
+.left-align{
+  list-style-type: square;
+  text-align: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+*{
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+p{  line-height: 1.5rem;
+    text-align: justify ;
+    font-family: cursive;
+    font-size: medium;
+    display: inline-block;
+    padding: auto;
+}
+.container{
+    padding: 50px;
+    width:80%;
+    border:2px solid black;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+}
+h3{
+  margin: 30px;
+}
+#CSE{
+    /*height:1900px;*/
+    background:rgb(255, 173, 190);
+}
+#ECE{
+    /*height:1000px;*/
+    background-color: aquamarine;
+}
+#EE{
+  /*  height:2500px;*/
+    background-color:rgba(245, 245, 71, 0.993);
+}
+.item{
+    border:midnightblue;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+
+}
+
+.subheading{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight:lighter;
+    margin: 10px;
+    border-radius: 5px;
+    background-color:black;
+    color: white;
+    display: inline-block;
+}
+.carousal img{
+    width: 400px;
+    height: 400px;
+    padding-left: 20px;
+
+}
+
+.image{
+    width:60%;
+    padding: 5px;
+
+}
+
+
+.carousel-indicators li {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel-indicators{
+    bottom: -50px;
+}
+
+.d-flex{
+    justify-content: center;
+}
+
+
+.names {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+    line-height: 60px;
+    border-bottom: 2px dotted #000;
+
+
+
+}

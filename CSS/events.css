@@ -1,0 +1,68 @@
+body{
+	background-color: ;
+}
+video,img{
+	padding: 10px 30px;
+
+}
+.w3-container{
+	width: 100%;
+	position: relative;
+	height: 450px
+}
+.w3-right{
+	margin-top: 20px;
+	margin-right: 35px;
+
+}
+.mySlides{
+	margin-left: 160px;
+}
+.para1,.para2,.para3,.para4{
+  line-height: 1.5rem;
+	text-align: left;
+	padding: 20px 70px;
+	width:50%;
+	height: 326px;
+	margin:10px auto 50px auto;
+
+}
+.para1{
+	background-color: #a9f1df;
+	float: left;
+}
+.para2{
+	background-color: #f4d160;
+	float: right;
+}
+.para3{
+	background-color: #a9f1df;
+	float: left;
+}
+.para4{
+	background-color: #f4d160;
+	float: right;
+}
+.firstcontainer{
+  margin-left: 60px;
+}
+.w3-display-right2,.w3-display-right1{
+	margin-right: 20px;
+	margin-left: 10px;
+}
+h1,h2{
+	color: #2978b5;
+}
+section-img{
+	height: 326px;
+	width: 490px;
+}
+video{
+	height: 300px;
+	width: 490px;
+}
+hr{
+	margin: 0 500px;
+	padding-bottom: 20px;
+	border-color: black;
+}
